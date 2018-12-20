@@ -1,0 +1,19 @@
+---
+title: Lançamento do Catálogo Designer Brasil
+subtitle: "Lançamento do Catálogo de festas da Designer Brasil por Clodualdo Bahia na Praia Devassa.."
+layout: default
+modal-id: 10
+date: 2018-04-21
+img: "lanc_designer_brasil_W.jpg"
+thumbnail: "lanc_designer_brasil_W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+Lançamento do Catálogo de festas da Designer Brasil por Clodualdo Bahia na Praia Devassa. O catálogo promete divulgar o melhor do trabalho de decorações da Designer Brasil do ano de 2011 e 2012 entre os temas: 15 anos, casamentos, formaturas, Infantis e corporativos, mais anúncios dos profissionais.<br><br>
+Clique aqui e confira a galeria de fotos
+
+"
+
+---

@@ -1,0 +1,20 @@
+---
+title: Casamento de Ana Carolina & Gustavo
+subtitle: "Casamento realizado na última sexta feira do ano de 2013..."
+layout: default
+modal-id: 9
+date: 2018-04-22
+img: carol-e-guga8.jpg
+thumbnail: carol-e-guga8.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+Casamento realizado na última sexta feira do ano de 2013, dia 27 de Dezembro, na Igreja Bom Jesus na Ribeira e Olimpo Recepções. Amizade antiga, desde criança, veraneávamos juntas, brincávamos juntas, era tudo maravilhoso, e quando ela chegou pra mim e disse que queria a Ativa Cerimonial a frente do casamento dela, fiquei lisonjeada e bastante feliz, pois, acompanhei de perto tudo pra esse maravilhoso dia!!! A noiva se arrumou no salão de Sinval de Souza por Thiago Alves , decor de Luciano Almeida. Músicos da Cerimonia por Harmonium Natal e da Recepção ficou ao som de Banda Perfume de Gardênia e Balanço do Morro. Motorista da noiva foi contratado por JF Vallet juntamente com o serviço de manobrista e segurança no Olimpo Recepções. Iluminação de Rossi Som Luz que deu um verdadeiro show mais uma vez! Nos clicks estava Junior Barreto e sua belíssima esposa Yanne Barreto e na filmagem estava ele, Paulo Henrique Luz com sua belíssima esposa. Nas guloseimas tivemos os maravilhosos doces de Kyara Doces E Chocolates e o bolo foi de Fátima Benfica, prima da noiva. Bem casados tbm de Kyara. No meio do salão, teve um bar montado, e leve estava o choop da Brahma. Gerador da Igreja e Recepção da AR Gerador. Noivos animados, festa tranquila e tradicional!!! Adoramos ter compartilhado com vocês esse maravilhoso momento!!!<br><br>
+
+Clique aqui para ver a galeria de fotos
+
+"
+
+---

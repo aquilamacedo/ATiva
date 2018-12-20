@@ -1,0 +1,26 @@
+---
+title: Casamento de Marília e Rildo
+subtitle: "A terra dos verdes canaviais e a Matriz de Nossa Senhora da Conceição foram palco do emocionante.."
+layout: default
+modal-id: 18
+date: 2018-04-13
+img: "MARILIA-E-RILDO-PRONTO-W.jpg"
+thumbnail: "MARILIA-E-RILDO-PRONTO-W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+
+
+Casamento de Marilia Eufrasio e Rildo Oliveira<br><br>
+
+A terra dos verdes canaviais e a Matriz de Nossa Senhora da Conceição foram palco do emocionante “Sim” do casal Cearamirinense Marília e Rildo que celebraram esta linda data regada de muita alegria e união a “sorte” do Amor.<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+
+"
+
+---

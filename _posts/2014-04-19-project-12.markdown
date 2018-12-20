@@ -1,0 +1,21 @@
+---
+title: Casamento de Ellen & Sérgio
+subtitle: "Casamento realizado na  Comunidade de  Casais Vida  Nova com  Recepção no  Espaço  Xaria do Hotel Vila do Mar..."
+layout: default
+modal-id: 12
+date: 2018-04-19
+img: "ellen_e_sergio_W.jpg"
+thumbnail: "ellen_e_sergio_W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento realizado na  Comunidade de  Casais Vida  Nova com  Recepção no  Espaço  Xaria do Hotel Vila do Mar, numa noite onde a Lua foi coadjuvante na renovação que o casal manifestou perante a Deus, familiares e amigos, sob as bênçãos dos filhos que se emocionaram e participaram deste lindo “Sim”.<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+"
+
+---

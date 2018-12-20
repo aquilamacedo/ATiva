@@ -1,0 +1,25 @@
+---
+title: Casamento de Marcella de Sá e Danilo
+subtitle: "A delicadeza e requinte deram o ar inspirador para compor uma manhã de domingo nublado.."
+layout: default
+modal-id: 17
+date: 2018-04-14
+img: "MARCELLA-DE-SA-E-DANILO-PRONTO-W.jpg"
+thumbnail: "MARCELLA-DE-SA-E-DANILO-PRONTO-W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Marcella de Sá e Danilo<br><br>
+
+A delicadeza e requinte deram o ar inspirador para compor uma manhã de domingo nublado, mas cheia de encantos nos  detalhes minuciosamente  preparados  pelos  noivos  Marcella e  Danilo, no qual os mais íntimos tiveram o privilégio de presenciar tamanha felicidade.<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+
+
+"
+
+---

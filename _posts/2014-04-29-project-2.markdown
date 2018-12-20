@@ -1,0 +1,32 @@
+---
+title: Casamento de Sara & Davi
+subtitle: "“…Ai, ai, ai essa voz doce e serena,
+O meu coração dispara por
+Você mulher pequena…”"
+layout: default
+modal-id: 2
+date: 2018-04-29
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "<i>“…Ai, ai, ai essa voz doce e serena,
+				O meu coração dispara por
+				Você mulher pequena…” <i> <br><br>
+
+É assim mesmo que Davi se sente ao lado de Sara Dantas .. e vice-versa!<br><br>
+
+Mais de ano estávamos acompanhando esse “grande pequeno casal”, que aprendemos a amá-los mais ainda!!! Cada dúvida, cada aflição, cada insegurança, era passada pra nós e seguramos isso com muito amor e carinho, sempre tendo uma palavra amiga pra dá na hora que precisava!!!<br><br>
+
+O casamento foi realizado na Igreja Santa Terezinha pelo Padre Julio César Souza Cavalcante, fez todos se emocionarem como também todos sorrir! As músicas embaladas pelo Grupo Harmonium, A decoração da igreja e da recepção foi feita porr Aldinha do Grupo Éden, onde fez também todo o o kit noiva. A igreja estava iluminada por Haja Luz de Marco Trigueiro Luz Iluminação, o vestido, véu e acessórios da noiva tudo de Valeria Gurgel que mais uma vez arrebentou… pra completar a beleza, Sara se arrumou no Salão Sinval de Souza por Hegley. As fotos foram deWellington Fugisse que deu show em rapidez e qualidade nas fotos…<br><br>
+
+Após a cerimônia, os noivos recepcionaram seus convidados no Betel Recepções, onde lá já estava pra animar a festa a Banda No Stress por Radames Silva … os coquetéis, além de bem apresentados, estavam deliciosos, por Anderson Coqueteis , os bem casados eram da maravilhosa Dulce Doces, o bolo era de Teresa Neumann Guanabara que ficou perfeito mais uma vez, parabéns!!!<br><br>
+
+Cerimonialista responsável: Amanda Miranda.<br><br>
+
+Parabéns aos profissionais que fizeram acontecer em mais um sonho realizado!!
+"
+
+---

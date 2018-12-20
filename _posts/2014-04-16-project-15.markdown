@@ -1,0 +1,26 @@
+---
+title: Casamento de Kelem & Ricardo
+subtitle: "O cenário foi simplesmente o espetáculo para encher os olhos dos que celebraram a reafirmação do AMOR  dos Noivos.."
+layout: default
+modal-id: 15
+date: 2018-04-16
+img: "kelem_e_ricardo_W.jpg"
+thumbnail: "kelem_e_ricardo_W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Kelem & Ricardo<br><br>
+
+O cenário foi simplesmente o espetáculo para encher os olhos dos que celebraram a reafirmação do AMOR  dos  Noivos Kelem de Negreiros e Ricardo Altmann, no  último dia 17/11/12 na Praia Devassa e  Cervejaria Via Continental.<br><br>
+
+Com encantamento,  e enaltecidos pela brisa ,  a paisagem e o ir e vir das ondas do mar , a inspiração das belas palavras do Celebrante  Luterano Walter Altmann para com os Noivos ,  fizerem que este  grande  dia fosse celebrado com muita felicidade, e prestigiado por presenças ilustres do Presidente do STF o Ministro Joaquim Barbosa e da atriz Hollywoodiana, Julia Goldani Telles, dessa forma os flashes foram ainda mais intensos pela alegria, descontração e sorrisos dos convidados que lá estiveram.<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+
+"
+
+---

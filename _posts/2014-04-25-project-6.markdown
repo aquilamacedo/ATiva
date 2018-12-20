@@ -1,0 +1,20 @@
+---
+title: Casamento de Lia & Mauricio
+subtitle: "Casamento realizado em granja particular…"
+layout: default
+modal-id: 6
+date: 2018-04-25
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento realizado em granja particular… tudo bem pensado e realizado conforme seus sonhos… Assim podemos definir o casamento dessas duas preciosidades… Lia e Mauricinho… ficamos muito felizes em fazer parte desse data tão importante na vida de vocês!! Parabéns e sejam muito felizes… Parabenizar ainda os profissionais que se empenharam em concretizar esse sonho, Rosania Amaralpelas lindas palavras da celebração… A responsável pelos lindos clicks, foi Nise Ana e toda sua competente equipe… Dão Decoração pela linda decoração, Nilson Buffet | Vivier Recepções pelas comidas e serviço de garçon prestado, Lirêda Coiffeur por ter deixado “minha” noiva belíssima e encantadora, Valeria Gurgel por concretizar esse sonho de vestido, véu e acessórios, Harmonium Natal por embalar as músicas da cerimônia que ficaram belíssimas na voz de Zé Fernandes. Quem animou a todos os convidados foram as bandas Arquivo Vivo que abriu a festa e Banda The Frois que contagiou a todos com sua animação. A iluminação e toda a estrutura do pavilhão, foi da Iluminar de Bruno Giovanni… Na parte das guloseimas, tivemos os maravilhosos e encantadores doces de MADA Doces e o lindo e gostoso bolo foi de Jane E Carol Bolos que arrebentou mais uma vez… Os bem casados foram de Ana e Anna Claudia.. Lembrando ainda, que as plaquinhas foram caligrafadas por Thamisa Tiara e todas instaladas pelo saudoso padrinho do noivo, Francisco… fez toda a diferença no cenário de sonhos e magia desse lindo casal!!! Admirem e curtam muito… que essas fotos ficaram simplesmente maravilhosas!!!<br><br>
+
+Clique aqui para ver a galeria de fotos
+"
+
+---

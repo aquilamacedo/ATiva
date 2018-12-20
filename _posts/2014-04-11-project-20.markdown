@@ -1,0 +1,24 @@
+---
+title: Casamento Bárbara e Josué
+subtitle: "Noite singular, regada de muita felicidade.."
+layout: default
+modal-id: 20
+date: 2018-04-11
+img: "barbara-e-josue1.jpg"
+thumbnail: "barbara-e-josue1.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+
+Casamento civil de Bárbara e Josué.<br><br>
+
+Noite singular, regada de muita felicidade, com a presença de familiares e amigos, abençoando este lindo “sim” !!!<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+"
+
+---

@@ -1,0 +1,19 @@
+---
+title: Mariana & André
+subtitle: "Casamento de Mariana e André."
+layout: default
+modal-id: 31
+date: 2018-03-30
+img: "mariana_andre-893x272.jpg"
+thumbnail: "mariana_andre-893x272.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Mariana e André.
+
+"
+
+---

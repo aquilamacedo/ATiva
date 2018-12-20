@@ -1,0 +1,26 @@
+---
+title: Casamento de Jéssica & Bruno
+subtitle: "Casamento anglicano realizado na Capela do Campus e La Mouette Recepções Natal… Noivos jovens, lindos, cheios de vida e esperança…"
+layout: default
+modal-id: 3
+date: 2018-04-28
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: " Casamento anglicano realizado na Capela do Campus e La Mouette Recepções Natal… Noivos jovens, lindos, cheios de vida e esperança…<br><br>
+
+A noiva estava vestida de Valeria Gurgel e make e hair por Thiago Alves do salão de Sinval de Souza…<br><br>
+
+Na igreja, os músicos encantaram a todos, o Harmonium Natal, iluminação de Castelo Casado e Decor de Danielle Canuto… que deixou tudo bem mais lindo e harmonioso. Na recepção os convidados eram recebidos pelos delicados e atenciosos manobristas da Paiva Park & Valet… os músicos foram embalados pelo som de Metamorfose Natal e Mesa Doze que animou muito durante toda a festa…. Kit lavabo porRaysse Lucena , Doces e chocolates da Caffech que encheu a boca e os olhos dos convidados…<br><br>
+
+Ainda teve para adoçar essas bocas, chocolates da Kopenhagen… mesa que ficou ao lado dos maravilhosos e perfeitos bem casados de Dona Dulce, o bolo lindo, alto, delicioso, confeccionado pelas mãos de Teresa Neumann Guanabara … Para aliviar a sede, os convidados se serviam de um leque de opções… como chopp do Pittsburg Maria Lacerda, Coquetel do Juntoemisturado Misturado por Rodrigo, além de espumantes da Canessa Montanares e whisky … Os clicks ficaram por conta de Junior Barreto e filmagem com Paulo Henrique Luz…<br><br>
+
+E nós, da ATiva Assessoria E Cerimonial trabalhamos para que tudo ocorresse como eles sempre almejaram um dia!!! Parabéns e nós desejamos muita paz, companheirismo e muito amor sempre… dia a dia!!!<br><br>
+
+Cerimonialista Responsável: Thamisa Tiara
+"
+
+---

@@ -1,0 +1,19 @@
+---
+title: Viviane & Diógenes
+subtitle: "Casamento de Viviane e Diógenes"
+layout: default
+modal-id: 28
+date: 2018-04-03
+img: "viviane_diogenes-893x272.jpg"
+thumbnail: "viviane_diogenes-893x272.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Viviane e Diógenes.
+
+"
+
+---

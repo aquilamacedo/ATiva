@@ -1,0 +1,26 @@
+---
+title: Casamento de Valéria Gurgel e Mário Pegado
+subtitle: "Sob as bênçãos de Deus e da chuva.."
+layout: default
+modal-id: 19
+date: 2018-04-12
+img: "valeria-gurgel-e-mario-pegado.jpg"
+thumbnail: "valeria-gurgel-e-mario-pegado.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Valéria Gurgel e Mário Pegado<br><br>
+
+Sob as bênçãos de Deus e da chuva, anunciando a vida na sua plenitude, a alegria, a beleza, a união e os sonhos realizados…
+Foi nesse clima de alto astral e romance que o Praia Devassa, recebeu o belo casal Valéria Gurgel e Mário Sérgio, gritando um sonoro “sim, para sempre”
+<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+
+"
+
+---

@@ -1,0 +1,19 @@
+---
+title: Talita & Michel
+subtitle: "Casamento de Talita e Michel."
+layout: default
+modal-id: 32
+date: 2018-03-29
+img: "talita_michel-893x272.jpg"
+thumbnail: "talita_michel-893x272.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Talita e Michel.
+
+"
+
+---

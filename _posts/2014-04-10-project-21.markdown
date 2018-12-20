@@ -1,0 +1,24 @@
+---
+title: 15 Anos Fernanda Amorim
+subtitle: "Realizado no Olimpo Recepções.."
+layout: default
+modal-id: 21
+date: 2018-04-10
+img: "1.jpg"
+thumbnail: "1.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+15 anos de Fernanda Amorim.<br><br>
+
+Realizado no Olimpo Recepções, tudo bem alegre, neon, onde enchiam os olhos de beleza e um sorriso largo de quem chegava…<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+
+"
+
+---

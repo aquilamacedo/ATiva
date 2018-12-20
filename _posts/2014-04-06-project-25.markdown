@@ -1,0 +1,19 @@
+---
+title: Lidianne & Antônio
+subtitle: "Nupcial de Lidianne e Antônio…"
+layout: default
+modal-id: 25
+date: 2018-04-06
+img: "Lidianne_Antônio-893x400.jpg"
+thumbnail: "Lidianne_Antônio-893x400.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Nupcial de Lidianne e Antônio, no Espaço Renata Motta, realizado no dia 21/01/12, com a ATiva assessorando e realizando um lindo cerimonial.
+
+"
+
+---

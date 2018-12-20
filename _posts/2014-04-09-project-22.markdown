@@ -1,0 +1,23 @@
+---
+title: Casamento de Andrezza e Rodrigo
+subtitle: "Realizado na Capela São Judas Tadeu. Cerimônia linda!"
+layout: default
+modal-id: 22
+date: 2018-04-09
+img: "ANDREZZA-E-RODRIGO-PRONTO-W.jpg"
+thumbnail: "ANDREZZA-E-RODRIGO-PRONTO-W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Andreza Sythia e Rodrigo Germano<br><br>
+
+Realizado na Capela São Judas Tadeu. Cerimônia linda! Os noivos recepcionaram os convidados com bastante amor, tudo muito lindo e harmonioso…<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+"
+
+---

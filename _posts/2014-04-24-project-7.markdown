@@ -1,0 +1,20 @@
+---
+title: Casamento de Polyana & Caio
+subtitle: "Casamento regado a simpatia e animação do casal Popó e Caio..."
+layout: default
+modal-id: 7
+date: 2018-04-24
+img: popo-e-caio2.png
+thumbnail: popo-e-caio2.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+Casamento regado a simpatia e animação do casal Popó e Caio. Ela vestida de Lurdinha Macedo, tia da noiva, deixou os convidados encantados com o belíssimo vestido… e acessórios de Valeria Gurgel; Beleza da noiva: Lirêda Coiffeur, Iluminação de Haja Luz Iluminação com Marco Trigueiro, decoração de Danielle Canuto, recepção e buffet do La Mouette Recepções Natal , Igreja Santo Afonso (Mirassol), doces de Ingryd Chocolates, Músicos da Cerimônia Harmonium Natal, Músicos da Recepção com Mesa 12 Joao Felipe Araujo, Foto de Yure Richard Fotografias, Filmagem de Paulo Henrique Luz, Bolo Sra. Graça Candido, Manobristas de Paiva Vallet sob os nossos olhos da Ativa Assessoria e Cerimonial…<br><br>
+
+Clique aqui para ver a galeria de fotos
+
+"
+
+---

@@ -1,0 +1,17 @@
+---
+title: Maria Fernanda
+subtitle: "Chá de bebê de Maria Fernanda."
+layout: default
+modal-id: 34
+date: 2018-03-27
+img: "cha_maria_fernanda-893x272.jpg"
+thumbnail: "cha_maria_fernanda-893x272.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+Chá de bebê de Maria Fernanda.
+"
+
+---

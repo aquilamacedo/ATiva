@@ -1,0 +1,25 @@
+---
+title: Casamento de Camila & Arnaldo
+subtitle: "Casamento De Camila Groff & Arnaldo Araújo, cerimônia anglicana realizada  no  Solar Bela Vista.."
+layout: default
+modal-id: 16
+date: 2018-04-15
+img: "Casamento-de-Camila-e-Arnaldo.jpg"
+thumbnail: "Casamento-de-Camila-e-Arnaldo.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Camila & Arnaldo<br><br>
+
+Casamento De  Camila Groff   &  Arnaldo  Araújo,  cerimônia anglicana realizada  no  Solar Bela Vista,  pelo reverendo Júnior… Abençoados por um belíssimo Por do Sol, os convidados foram recepcionados por um harmonioso som de Piano e Sax!!!<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+
+
+"
+
+---

@@ -1,0 +1,23 @@
+---
+title: 15 anos de Victória
+subtitle: "Tudo embalado pela magia e sonho de uma noite inesquecível e marcante…"
+layout: default
+modal-id: 24
+date: 2018-04-07
+img: "VICTORIA-PRONTO-W.jpg"
+thumbnail: "VICTORIA-PRONTO-W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Aniversário de 15 Anos de Victória Magalhães.<br><br>
+
+Tudo embalado pela magia e sonho de uma noite inesquecível e marcante… Parabéns aos profissionais que trabalharam e se dedicaram a essa noite de realizações da linda e simpática Victória!!!<br><br>
+
+Clique aqui e confira a galeria de fotos.
+
+"
+
+---

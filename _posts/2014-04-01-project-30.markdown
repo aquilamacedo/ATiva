@@ -1,0 +1,19 @@
+---
+title: Bianca & Diogo
+subtitle: "Casamento de Viviane e Diógenes"
+layout: default
+modal-id: 30
+date: 2018-04-01
+img: "bianca_diogo-893x272.jpg"
+thumbnail: "bianca_diogo-893x272.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Bianca & Diogo.
+
+"
+
+---

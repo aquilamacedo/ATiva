@@ -1,0 +1,19 @@
+---
+title: Maria Fernanda
+subtitle: "Batizado…"
+layout: default
+modal-id: 27
+date: 2018-04-04
+img: "maria_fernanda_batizado-893x272.jpg"
+thumbnail: "maria_fernanda_batizado-893x272.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Batizado de Maria Fernanda.
+
+"
+
+---

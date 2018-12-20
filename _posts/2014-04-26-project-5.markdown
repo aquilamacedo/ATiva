@@ -1,0 +1,37 @@
+---
+title: Casamento de Walana & Rodrigo
+subtitle: "“ Resolvi pedir a Deus pra que eu possa te guardar
+Ser teu anjo protetor te velar e te cuidar
+Quando eu precisei pôs tua vida em mim
+Deus permita-me ser teu anjo aqui…”"
+layout: default
+modal-id: 5
+date: 2018-04-26
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+<i>“ Resolvi pedir a Deus pra que eu possa te guardar
+Ser teu anjo protetor te velar e te cuidar
+Quando eu precisei pôs tua vida em mim
+Deus permita-me ser teu anjo aqui…”<i><br><br>
+
+Casamento realizado no dia 13 de Dezembro/13, sob a Luz de Nossa Senhora da Candelária e uma linda e emocionada celebração de Pe. Julio César Souza Cavalcante, dirigente espiritual do Lindo Casal Walana Paula Mesquita e Rodrigo Tavares. Os noivos recepcionaram seus convidados no Éden Lamour/ Éden Recepções. Casal espiritualizado, do bem, amigos lindos da Paróquia de Candelária, queridos por todos, e que confiaram no nosso trabalho e em muitas decisões que tomaram no decorrer de todo o planejamento deste dia singular… Palavras, emoção e a sensação de se cumprir mais um dever numa entrada FELIZ e de encher os olhos de lágrimas de um NOIVO extremamente Apaixonado, a espera do para sempre da sua Barbie linda de viver vestida pelaGraciosa Graciosa. Ela teve seu dia de beleza sob o comando de Lirêda Coiffeur por Anilson Knight , decor e iluminação sob as mãos de Audinha (Éden ). Músicos da Cerimonia por H2A e da Recepção ficou a cargos dos mesmos. Traslado da noiva por Ótima Assessoria.<br><br>
+Nos clicks estava o Top, Top Yure Richard Fotografias e seu assistente barra Thiago Silva e na filmagem Wlademir Silva..<br><br>
+
+O bolo e os bem casados foi de Danny Buffet, caixetas da Lavie Ornamentos Finos. Gerador da Recepção da Rodante Locações Rodante Locações. Noivos e convidados super animados, festa pra lá de boa!!! Feliz por demais em termos compartilhado com vocês esse dia tão sonhado e que ficará para sempre registrado no calendário da vida de vcs!!!<br><br>
+
+Para terminar… “Eu pedi pra Deus gravar o teu nome em minha mão
+Deus foi muito mais além te gravou em meu coração
+Já não posso mais esquecer de ti
+Tua vida Deus transplantou em mim”<br><br>
+
+Que assim para sempre seja!!!<br><br>
+
+Cerimonialista Responsável: Amanda Miranda"
+
+
+---

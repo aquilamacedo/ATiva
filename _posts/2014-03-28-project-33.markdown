@@ -1,0 +1,19 @@
+---
+title: Higna & Wilder
+subtitle: "Casamento de Higna e Wilder."
+layout: default
+modal-id: 33
+date: 2018-03-28
+img: "higna-893x272.jpg"
+thumbnail: "higna-893x272.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Higna e Wilder.
+
+"
+
+---

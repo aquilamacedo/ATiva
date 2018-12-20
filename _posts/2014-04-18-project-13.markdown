@@ -1,0 +1,22 @@
+---
+title: Casamento de Lícia & Rogério
+subtitle: "Um cenário de sonho..."
+layout: default
+modal-id: 13
+date: 2018-04-18
+img: "licia_e_rogerio_W.jpg"
+thumbnail: "licia_e_rogerio_W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Lícia & Rogério<br><br>
+
+Um cenário de sonho, noivos radiantes e uma festa memorável, foi assim o Casamento de Licia E Rogerio Santos Dantas na Granja Canaã.<br><br>
+
+Clique aqui e confira a galeria de fotos
+"
+
+---

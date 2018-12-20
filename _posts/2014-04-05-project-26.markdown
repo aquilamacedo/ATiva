@@ -1,0 +1,19 @@
+---
+title: Romeika & Thales
+subtitle: "Nupcial de Lidianne e Antônio…"
+layout: default
+modal-id: 26
+date: 2018-04-05
+img: "Romeika_Thales-893x400.jpg"
+thumbnail: "Romeika_Thales-893x400.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Romeika e Thales.
+
+"
+
+---

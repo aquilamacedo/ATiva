@@ -1,0 +1,22 @@
+---
+title: Casamento de Diana e Samuel
+subtitle: "Embalado ao som das ondas do mar e como testemunha presente o por do sol de encher os olhos.."
+layout: default
+modal-id: 23
+date: 2018-04-08
+img: "DIANA-E-SAMUEL-PRONTO-W.jpg"
+thumbnail: "DIANA-E-SAMUEL-PRONTO-W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de  Diana Braz Petta e Samuel XavierdeSouza
+
+Embalado ao som das ondas do mar e como testemunha presente o por do sol de encher os olhos. Casal alegre que faz com que a felicidade seja o ponto chave da vida, independente do que os outros acham.
+
+Clique aqui e confira a galeria de fotos.
+"
+
+---

@@ -1,0 +1,23 @@
+---
+title: Casamento de Adriana & Thiago
+subtitle: "A ALEGRIA de fato, fazia parte no olhar.."
+layout: default
+modal-id: 14
+date: 2018-04-17
+img: "adriana_e_thiago_W.jpg"
+thumbnail: "adriana_e_thiago_W.jpg"
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "
+
+Casamento de Adriana & Thiago<br><br>
+
+A ALEGRIA de fato, fazia parte no olhar, nos gestos e sorrisos dos Noivos que celebraram o amor e o início de uma vida a dois, numa belíssima celebração religiosa na Igreja Nossa Senhora do Rosário dos Pretos com Recepção  no Versailles Tirol,  regada de  muita  animação  dos  convidados,  entusiasmo e  diversão numa festa que  não  poderia faltar,  a vivacidade  e autenticidade dos Noivos que ficaram registrados para sempre por todos que estiveram neste grande e Feliz Enlace…<br><br>
+
+Clique aqui e confira a galeria de fotos.<br><br>
+
+"
+
+---
