@@ -1,6 +1,6 @@
 ---
-title: Casamento de Ellen & Sérgio
-subtitle: "Casamento realizado na  Comunidade de  Casais Vida  Nova com  Recepção no  Espaço  Xaria do Hotel Vila do Mar..."
+title: Ellen & Sérgio
+subtitle: "Casamento..."
 layout: default
 modal-id: 12
 date: 2018-04-19

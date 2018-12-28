@@ -1,6 +1,6 @@
 ---
-title: Casamento de Adriana & Thiago
-subtitle: "A ALEGRIA de fato, fazia parte no olhar.."
+title: Adriana & Thiago
+subtitle: "A ALEGRIA.."
 layout: default
 modal-id: 14
 date: 2018-04-17

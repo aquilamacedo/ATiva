@@ -1,6 +1,6 @@
 ---
-title: Casamento de Kalina & Weiner
-subtitle: "Casamento realizando no dia 13 de abril de 2013 às 18h na Igreja Santo Agostinho..."
+title: Kalina & Weiner
+subtitle: "Casamento..."
 layout: default
 modal-id: 8
 date: 2018-04-23

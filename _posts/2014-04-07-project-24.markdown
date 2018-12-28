@@ -1,6 +1,6 @@
 ---
-title: 15 anos de Victória
-subtitle: "Tudo embalado pela magia e sonho de uma noite inesquecível e marcante…"
+title: 15 anos Victória
+subtitle: "Tudo embalado…"
 layout: default
 modal-id: 24
 date: 2018-04-07

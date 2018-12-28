@@ -1,6 +1,6 @@
 ---
-title: 15 Anos Fernanda Amorim
-subtitle: "Realizado no Olimpo Recepções.."
+title: 15 Anos Fernanda
+subtitle: "Realizado no.."
 layout: default
 modal-id: 21
 date: 2018-04-10

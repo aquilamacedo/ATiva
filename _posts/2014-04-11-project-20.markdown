@@ -1,6 +1,6 @@
 ---
-title: Casamento Bárbara e Josué
-subtitle: "Noite singular, regada de muita felicidade.."
+title: Bárbara e Josué
+subtitle: "Noite singular.."
 layout: default
 modal-id: 20
 date: 2018-04-11

@@ -1,6 +1,6 @@
 ---
 title: Bianca & Diogo
-subtitle: "Casamento de Viviane e Diógenes"
+subtitle: "Casamento"
 layout: default
 modal-id: 30
 date: 2018-04-01

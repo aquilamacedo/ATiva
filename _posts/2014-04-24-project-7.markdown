@@ -1,6 +1,6 @@
 ---
-title: Casamento de Polyana & Caio
-subtitle: "Casamento regado a simpatia e animação do casal Popó e Caio..."
+title: Polyana & Caio
+subtitle: "Casamento..."
 layout: default
 modal-id: 7
 date: 2018-04-24

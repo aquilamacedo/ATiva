@@ -1,6 +1,6 @@
 ---
-title: Lançamento do Catálogo Designer Brasil
-subtitle: "Lançamento do Catálogo de festas da Designer Brasil por Clodualdo Bahia na Praia Devassa.."
+title: Catálogo Designer
+subtitle: "Lançamento.."
 layout: default
 modal-id: 10
 date: 2018-04-21

@@ -1,6 +1,6 @@
 ---
 title: Sarah & Rafael
-subtitle: "Casamento de Sarah e Rafael."
+subtitle: "Casamento.."
 layout: default
 modal-id: 29
 date: 2018-04-02

@@ -1,6 +1,6 @@
 ---
-title: Casamento de Jéssica & Bruno
-subtitle: "Casamento anglicano realizado na Capela do Campus e La Mouette Recepções Natal… Noivos jovens, lindos, cheios de vida e esperança…"
+title: Jéssica & Bruno
+subtitle: "Casamento.."
 layout: default
 modal-id: 3
 date: 2018-04-28

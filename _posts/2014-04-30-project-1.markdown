@@ -1,6 +1,6 @@
 ---
-title: Casamento de Jordânia & Marcos
-subtitle: Casamento que mexeu com o passado e o presente...
+title: Jordânia & Marcos
+subtitle: Casamento...
 layout: default
 modal-id: 1
 date: 2018-04-30
@@ -10,14 +10,16 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: "Casamento que mexeu com o passado e o presente… seleção de músicas maravilhosas.. uma música pra cada casal de padrinhos, todas escolhidas pela noiva e todas cantadas…<br><br>
+description: "Casamento que mexeu com o passado e o presente… seleção de músicas maravilhosas.. uma música pra cada casal de padrinhos, todas escolhidas pela noiva e todas cantadas…
 
-Cerimônia belíssima celebrada pelo Reverendo Jorge Aquino no Restaurante do Hotel Majestic Natal … A noiva se arrumou no próprio hotel pelas mãos maravilhosas e competentes de Thalyson Salvino de Araújo do Salão Sinval de Souza.<br>
+Cerimônia belíssima celebrada pelo Reverendo Jorge Aquino no Restaurante do Hotel Majestic Natal … A noiva se arrumou no próprio hotel pelas mãos maravilhosas e competentes de Thalyson Salvino de Araújo do Salão Sinval de Souza.
 
-Ela toda vestida de Valeria Gurgel encantou a todos com a beleza do conjunto, véu, vestido e acessórios e magia do seu olhar. Todo o buffet foi do Próprio Hotel do chefe de cozinha do estabelecimento… a noiva optou por não ter doces, porém, os convidados adoraram as sobremesas que foram servidas… a bebida foi da Canessa Montanares… vinho Merlot e espumante…<br><br>
+Ela toda vestida de Valeria Gurgel encantou a todos com a beleza do conjunto, véu, vestido e acessórios e magia do seu olhar. Todo o buffet foi do Próprio Hotel do chefe de cozinha do estabelecimento… a noiva optou por não ter doces, porém, os convidados adoraram as sobremesas que foram servidas… a bebida foi da Canessa Montanares… vinho Merlot e espumante…
 
-Foto de Jardson Amaral, Filmagem por Priscila Vilar, Músicos da Cerimônia Harmonium Natal, Bolo de Tereza Vale, Bem casados de Ana e Cláudia Doces Finos, Decoração de Lidjane Barreto juntamente com o buque da noiva, os guardanapos foi de Lavie Ornamentos Finos, Iluminação por Baobá Iluminações … Tudo isso coordenado por nós, da Ativa Assessoria e Cerimonial…<br><br>
+Foto de Jardson Amaral, Filmagem por Priscila Vilar, Músicos da Cerimônia Harmonium Natal, Bolo de Tereza Vale, Bem casados de Ana e Cláudia Doces Finos, Decoração de Lidjane Barreto juntamente com o buque da noiva, os guardanapos foi de Lavie Ornamentos Finos, Iluminação por Baobá Iluminações … Tudo isso coordenado por nós, da Ativa Assessoria e Cerimonial…
 
-Cerimonialista Responsável: Thamisa Tiara"
+Cerimonialista Responsável: Thamisa Tiara
+
+"
 
 ---

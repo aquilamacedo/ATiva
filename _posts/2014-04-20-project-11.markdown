@@ -1,6 +1,6 @@
 ---
-title: Lançamento do Anuário dos Profissionais de Direto do RN
-subtitle: "Lançamento do Anuário dos Profissionais de Direito do Rio Grande do Norte que aconteceu  no Rv Versailles Tirol..."
+title: Profissionais de Direto do RN
+subtitle: "Lançamento..."
 layout: default
 modal-id: 11
 date: 2018-04-20

@@ -1,6 +1,6 @@
 ---
 title: Talita & Michel
-subtitle: "Casamento de Talita e Michel."
+subtitle: "Casamento..."
 layout: default
 modal-id: 32
 date: 2018-03-29

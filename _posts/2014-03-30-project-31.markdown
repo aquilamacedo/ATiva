@@ -1,6 +1,6 @@
 ---
 title: Mariana & André
-subtitle: "Casamento de Mariana e André."
+subtitle: "Casamento..."
 layout: default
 modal-id: 31
 date: 2018-03-30

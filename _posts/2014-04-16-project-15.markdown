@@ -1,6 +1,6 @@
 ---
-title: Casamento de Kelem & Ricardo
-subtitle: "O cenário foi simplesmente o espetáculo para encher os olhos dos que celebraram a reafirmação do AMOR  dos Noivos.."
+title: Kelem & Ricardo
+subtitle: "O cenário.."
 layout: default
 modal-id: 15
 date: 2018-04-16

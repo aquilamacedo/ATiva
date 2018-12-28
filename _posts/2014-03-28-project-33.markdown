@@ -1,6 +1,6 @@
 ---
 title: Higna & Wilder
-subtitle: "Casamento de Higna e Wilder."
+subtitle: "Casamento.."
 layout: default
 modal-id: 33
 date: 2018-03-28

@@ -1,6 +1,6 @@
 ---
-title: Viviane & Diógenes
-subtitle: "Casamento de Viviane e Diógenes"
+title: Viviane
+subtitle: "Casamento.."
 layout: default
 modal-id: 28
 date: 2018-04-03

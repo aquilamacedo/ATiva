@@ -1,6 +1,6 @@
 ---
-title: Casamento de Ana Carolina & Gustavo
-subtitle: "Casamento realizado na última sexta feira do ano de 2013..."
+title: Ana Carolina & Gustavo
+subtitle: "Casamento..."
 layout: default
 modal-id: 9
 date: 2018-04-22

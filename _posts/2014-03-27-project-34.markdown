@@ -1,6 +1,6 @@
 ---
 title: Maria Fernanda
-subtitle: "Chá de bebê de Maria Fernanda."
+subtitle: "Chá de bebê."
 layout: default
 modal-id: 34
 date: 2018-03-27

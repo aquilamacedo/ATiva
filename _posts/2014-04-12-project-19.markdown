@@ -1,6 +1,6 @@
 ---
-title: Casamento de Valéria Gurgel e Mário Pegado
-subtitle: "Sob as bênçãos de Deus e da chuva.."
+title: Valéria e Mário
+subtitle: "Sob as.."
 layout: default
 modal-id: 19
 date: 2018-04-12

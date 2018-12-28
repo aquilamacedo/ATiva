@@ -1,6 +1,6 @@
 ---
 title: Romeika & Thales
-subtitle: "Nupcial de Lidianne e Antônio…"
+subtitle: "Nupcial.."
 layout: default
 modal-id: 26
 date: 2018-04-05

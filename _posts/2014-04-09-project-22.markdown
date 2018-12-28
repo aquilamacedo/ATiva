@@ -1,6 +1,6 @@
 ---
-title: Casamento de Andrezza e Rodrigo
-subtitle: "Realizado na Capela São Judas Tadeu. Cerimônia linda!"
+title: Andrezza e Rodrigo
+subtitle: "Realizado na.."
 layout: default
 modal-id: 22
 date: 2018-04-09

@@ -1,6 +1,6 @@
 ---
-title: Casamento de Camila & Arnaldo
-subtitle: "Casamento De Camila Groff & Arnaldo Araújo, cerimônia anglicana realizada  no  Solar Bela Vista.."
+title: Camila & Arnaldo
+subtitle: "Casamento.."
 layout: default
 modal-id: 16
 date: 2018-04-15

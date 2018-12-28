@@ -1,6 +1,6 @@
 ---
-title: Casamento de Marília e Rildo
-subtitle: "A terra dos verdes canaviais e a Matriz de Nossa Senhora da Conceição foram palco do emocionante.."
+title: Marília e Rildo
+subtitle: "A terra dos.."
 layout: default
 modal-id: 18
 date: 2018-04-13
