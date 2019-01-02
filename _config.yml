@@ -1,10 +1,14 @@
-url:  https://ativacerimonial.github.io/
-baseurl:
+url: https://y7kim.github.io
+baseurl: 
+
 
 # Site settings
 title: ATiva Assesoria e Cerimonial
 email: contato@ativacerimoniais.com.br
 description: ATiva Assesoria e Cerimonial
+gems:
+  - jekyll-gist
+
 
 
 # Team names, titles and social links

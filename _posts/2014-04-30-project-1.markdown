@@ -10,16 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: "Casamento que mexeu com o passado e o presente… seleção de músicas maravilhosas.. uma música pra cada casal de padrinhos, todas escolhidas pela noiva e todas cantadas…
+description: 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン(OSMFJ)は、日本のOSMコミュニティ活動を支援する団体です。<br>私たちはOpenStreetMapの活動趣旨に賛同し、日本における自由な地図情報および日本語による世界の自由な地図情報の発展とそれに伴う技術発展を促進します。<br>OSMFJの活動はOSMプロジェクトを制御しません。またOSMプロジェクトを所有しているわけでもありません。<br>私たちの活動は自由な地理空間データの発展、開発、配分を奨励することと、そして、誰でも使用、共有できる地理空間データを提供することを目的としています。またオープンストリートマップ財団（OSMF：イギリス)と連携し、OSMFの日本国内窓口として、コミュニティーの発展と自由な地図情報の推進を図っていきます。<br>詳しくは<a href="http://wiki.openstreetmap.org/wiki/OSMFJ/bylaws">定款</a>を参照ください。<br>法人番号; 1011505001480<br>登記法人名; 一般社団法人オープンストリートマップ・ファウンデーション・ジャパン
 
-Cerimônia belíssima celebrada pelo Reverendo Jorge Aquino no Restaurante do Hotel Majestic Natal … A noiva se arrumou no próprio hotel pelas mãos maravilhosas e competentes de Thalyson Salvino de Araújo do Salão Sinval de Souza.
-
-Ela toda vestida de Valeria Gurgel encantou a todos com a beleza do conjunto, véu, vestido e acessórios e magia do seu olhar. Todo o buffet foi do Próprio Hotel do chefe de cozinha do estabelecimento… a noiva optou por não ter doces, porém, os convidados adoraram as sobremesas que foram servidas… a bebida foi da Canessa Montanares… vinho Merlot e espumante…
-
-Foto de Jardson Amaral, Filmagem por Priscila Vilar, Músicos da Cerimônia Harmonium Natal, Bolo de Tereza Vale, Bem casados de Ana e Cláudia Doces Finos, Decoração de Lidjane Barreto juntamente com o buque da noiva, os guardanapos foi de Lavie Ornamentos Finos, Iluminação por Baobá Iluminações … Tudo isso coordenado por nós, da Ativa Assessoria e Cerimonial…
-
-Cerimonialista Responsável: Thamisa Tiara
-
-"
 
 ---
